@@ -1,4 +1,10 @@
-<h1>Hi, Erajah! <br/><a href="https://github.com/Scyp-exe">PSU World Campus Student</a></h1>
+<h1>Hello visitors!<br>
+<br>
+I am Erajah, currently serving the United States Navy and a full time student at Pennsylvania State University World Campus!<br>
+<br>
+My current field is the Information Sciences and Technology Associates program with a focus on networking.<br/>
+<br>
+<a href="https://github.com/Scyp-exe">PSU World Campus Student</a></h1>
 
 <h2>IST110 Projects:</h2>
 
