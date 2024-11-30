@@ -3,7 +3,7 @@
 <h2>IST110 Projects:</h2>
 
 - <b>Discussion Posts</b>
-  - [Weekly Submissions]((https://github.com/Scyp-exe/Discussion-Posts))
+  - [Weekly Submissions](https://github.com/Scyp-exe/Discussion-Posts)
 - <b>Submissions</b>
   - [Filler](https://github.com/Scyp-exe)
 - <b>Group Work</b>
