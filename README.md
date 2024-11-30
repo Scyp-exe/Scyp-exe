@@ -4,15 +4,14 @@
 
 - <b>Discussion Posts</b>
   - [Weekly Submissions](https://github.com/Scyp-exe/Discussion-Posts)
-- <b>Submissions</b>
-  - [Filler](https://github.com/Scyp-exe)
+- <b>Laboratory</b>
+  - [IST110 Labs](https://github.com/Scyp-exe/IST110-Labs)
+- <b>Individual Activities</b>
+  - [Assignments](https://github.com/Scyp-exe/Individual-Assignments)
 - <b>Group Work</b>
-  - [Filler](https://github.com/Scyp-exe)
-- <b>Fill</b>
-  - [Filler](https://github.com/Scyp-exe)
-
-- <b>Fill</b>
-  - [Filler](https://github.com/Scyp-exe)
+  - [Group Activity 1](https://github.com/Scyp-exe/Group-activity-1)
+  - [Group Activity 2](https://github.com/Scyp-exe/Group-activity-2)
+  - [Group Activity 3](https://github.com/Scyp-exe/Group-activity-3)
 
 <h2>Connect with me:</h2>
 
