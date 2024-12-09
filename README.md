@@ -1,7 +1,7 @@
 <h1>Hello visitors!<br>
 <br>
 <h2>Description</h2>
-I am a full time student at Pennsylvania State University World Campus, and serving active duty for the United States Navy as an Instructor!<br>
+I am studying as a full time student at Pennsylvania State University World Campus <img src="https://github.com/user-attachments/assets/bc38827b-ce23-4fdf-8fde-26f90c2dc760" height="3%" width="3%" />, and serving active duty for the United States Navy as an Instructor for Port Damage Repair and Waterwell Drilling operations.<br>
 <br>
 My current field is the Information Sciences and Technology Associates program with a focus on networking.<br/>
 <br>
