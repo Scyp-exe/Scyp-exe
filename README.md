@@ -11,8 +11,6 @@ My current field is the Information Sciences and Technology Associates program w
 
 - <b>Discussion Posts</b>
   - [Weekly Submissions](https://github.com/Scyp-exe/Discussion-Posts)
-- <b>Laboratory</b>
-  - [Labs](https://github.com/Scyp-exe/IST110-Labs)
 - <b>Individual Activities</b>
   - [My Assignments](https://github.com/Scyp-exe/Individual-Assignments)
 - <b>Group Work</b>
